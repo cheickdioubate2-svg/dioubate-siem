@@ -1,0 +1,43 @@
+DIOUBATE SIEM — Licence d'utilisation gratuite (gratuiciel)
+Copyright (c) 2026 Dioubate Cheick. Tous droits réservés.
+Contact : cheickdioubate2@gmail.com
+
+1. Droit d'utilisation
+   Vous pouvez installer et utiliser gratuitement DIOUBATE SIEM (le « Logiciel »),
+   sur autant de machines que vous le souhaitez, à titre personnel ou au sein
+   de votre organisation, y compris pour protéger une activité commerciale.
+
+2. Redistribution
+   Vous pouvez redistribuer le Logiciel gratuitement, uniquement sous sa forme
+   d'origine et non modifiée, accompagné de la présente licence et du fichier
+   TIERS.txt. La vente du Logiciel, sa redistribution sous forme modifiée ou
+   sous un autre nom sont interdites sans l'accord écrit de l'auteur.
+
+3. Restrictions
+   Il est interdit de modifier les binaires, de retirer ou masquer les mentions
+   de l'auteur, et de décompiler ou désassembler le Logiciel, sauf dans la
+   mesure où la loi applicable l'autorise expressément.
+
+4. Propriété
+   Le Logiciel reste la propriété de son auteur. Cette licence n'accorde aucun
+   droit sur le code source, qui n'est pas distribué.
+
+5. Absence de garantie
+   Le Logiciel est fourni « tel quel », sans garantie d'aucune sorte, expresse
+   ou implicite, notamment de bon fonctionnement, d'adéquation à un usage
+   particulier ou d'absence de défaut. Vous êtes responsable de son
+   installation, de sa configuration et de la sauvegarde de vos données.
+
+6. Limitation de responsabilité
+   Dans toute la mesure permise par la loi, l'auteur ne pourra être tenu
+   responsable d'aucun dommage direct ou indirect (perte de données,
+   interruption d'activité, blocage d'accès, etc.) résultant de l'utilisation
+   ou de l'impossibilité d'utiliser le Logiciel.
+
+7. Composants tiers
+   Le Logiciel intègre des composants soumis à leurs propres licences,
+   reproduites dans le fichier TIERS.txt.
+
+8. Évolution
+   L'auteur peut publier de nouvelles versions sous d'autres conditions.
+   Les versions déjà téléchargées restent régies par la présente licence.
