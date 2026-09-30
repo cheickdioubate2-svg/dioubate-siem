@@ -7,6 +7,18 @@ Un **central** (console web) et des **agents** légers installés sur vos serveu
 > Gratuiciel : programmes et documentation seulement. Le code source n'est pas publié.
 > Auteur : **Dioubate Cheick**, Conakry (Guinée). Contact : cheickdioubate2@gmail.com
 
+## ⬇️ Télécharger l'application
+
+**➡️ [Télécharger la dernière version (Releases)](../../releases/latest)**
+
+| Votre serveur | Fichier à prendre |
+|---|---|
+| **Windows Server** | `dioubate-siem-v0.4.1-windows-amd64.zip` |
+| **Linux** | `dioubate-siem-v0.4.1-linux-amd64.tar.gz` |
+
+> ⚠️ Les programmes sont dans les **Releases**, pas dans le bouton vert « Code ». Après téléchargement, décompressez l'archive : le dossier **`dist/`** contient les installateurs. Ne prenez pas « Source code », qui ne contient que la documentation.
+
+
 ![Tableau de bord](docs/captures/01-tableau-de-bord.png)
 <sub>Capture prise en environnement de test, avec du trafic simulé. Les IP (192.0.2.x, 198.51.100.x, 203.0.113.x) sont des adresses réservées à la documentation (RFC 5737).</sub>
 
